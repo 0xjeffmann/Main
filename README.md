@@ -10,8 +10,8 @@ I like learning new things, has a profound interest in technology and a dedicati
 
 I'm currently seeking to transition into the cybersecurity industry, leveraging my diverse background and transferable skills gained from a successful career in real estate and military experience. My strengths include effective communication, adaptability, collaboration, attention to detail and problem-solving. I have a proven track record of success with the ability of interacting with professionals at all levels and am eager to apply these skills in a cybersecurity role.
 
-## Skills & Project
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Skills & Projects
+Currently working on these projectsto help build foundational skills. Created SOPs to use as a guide and made them public for others to learn from and/or for others to teach me.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,20 +21,21 @@ I'm currently seeking to transition into the cybersecurity industry, leveraging 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+ChatGPT
+Gemini
 
 ### Network
-<div>
+///<div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+</div>///
 
 ### Endpoint
-<div>
+/// <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+</div> ///
 
 ### SIEM
 <div>
