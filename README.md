@@ -1,5 +1,5 @@
 # Hello, I'm Jeff Mann
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jeff-mann"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
@@ -15,7 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting Up and Securing a Home Lab Environment          | <a href="https://google.com">Detection Lab</a>|
+| Setting Up and Securing a Home Lab Environment| <a href="https://www.canva.com/design/DAGOmabPBSc/7kohiLecJ4K9ILpM03K7eQ/view?utm_content=DAGOmabPBSc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
