@@ -1,25 +1,25 @@
 # Hello, I'm Jeff Mann
 <a href="https://linkedin.com/in/jeff-mann"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I like learning new things, a profound interest in technology and a dedication to solving complex problems. An ambitious professional seeking an IT/Cybersecurity position to apply my skills in network security, security policy, and organizational risk management. I recently completed the Google Cybersecurity Certificate program. Extensive knowledge in customer success, marketing & sales, critical thinking & analysis, and operations and systems. Possesses effective communications skills with the ability to multitask. Humble & honest, someone that can manage through ambiguities and complexities. 
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm currently seeking to transition into the cybersecurity industry, leveraging my diverse background and transferable skills gained from a successful career in real estate and military experience. My strengths include effective communication, adaptability, collaboration, attention to detail and problem-solving. I have a proven track record of success with the ability of interacting with professionals at all levels and am eager to apply these skills in a cybersecurity role.
 
-## Skills
+## Skills & Project
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting Up and Securing a Home Lab Environment| <a href="https://tinyurl.com/m9uwjnad">SOP</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Build & Configure a Firewall part 2 w/ Linux  | <a href="https://https://tinyurl.com/5n6tea99">SOP</a>|
+| Conduct Vulnerability Assessment & Remdiation | <a href="www.google.com">SOP</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
