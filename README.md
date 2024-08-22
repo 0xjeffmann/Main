@@ -26,7 +26,7 @@ ChatGPT
 Gemini
 
 ### Network
-In Progress...
+In Progress...below is not updated
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -35,7 +35,7 @@ In Progress...
 
 
 ### SIEM
-In Progress...
+In Progress...below is not updated
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -44,6 +44,7 @@ In Progress...
 
 ## Certifications
 [Provide certifications that you have obtained. in progress]]
+In Progress...below is not updated
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
