@@ -15,8 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting Up and Securing a Home Lab Environment| <a href="https://www.canva.com/design/DAGOmabPBSc/7kohiLecJ4K9ILpM03K7eQ/view?utm_content=DAGOmabPBSc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-">Detection Lab</a>|
+| Setting Up and Securing a Home Lab Environment| <a href="dub.sh/E0ibWNx">SOP</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
