@@ -16,8 +16,8 @@ I'm currently seeking to transition into the cybersecurity industry, leveraging 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting Up and Securing a Home Lab Environment| <a href="https://tinyurl.com/m9uwjnad">SOP</a>|
-| Build & Configure a Firewall part 2 w/ Linux  | <a href="https://https://https://tinyurl.com/5n6tea99">SOP</a>|
-| Conduct Vulnerability Assessment & Remdiation | <a href="www.google.com">SOP</a>|
+| Build & Configure a Firewall part 2 w/ Linux  | <a href="https://tinyurl.com/5n6tea99">SOP</a>|
+| Conduct Vulnerability Assessment & Remdiation | <a href="https://tinyurl.com/yrnnw9dz">SOP</a>|
 
 
 ## Tools
