@@ -3,11 +3,10 @@
 
 
 
-I like learning new things, a profound interest in technology and a dedication to solving complex problems. An ambitious professional seeking an IT/Cybersecurity position to apply my skills in network security, security policy, and organizational risk management. I recently completed the Google Cybersecurity Certificate program. Extensive knowledge in customer success, marketing & sales, critical thinking & analysis, and operations and systems. Possesses effective communications skills with the ability to multitask. Humble & honest, someone that can manage through ambiguities and complexities. 
+I like learning new things, has a profound interest in technology and a dedication to improving. An professional seeking an IT/Cybersecurity position to apply my skills in network security, security policy, and organizational risk management. I recently completed the Google Cybersecurity Certificate program. Extensive knowledge in customer success, marketing & sales, critical thinking & analysis, and operations and systems. Possesses effective communications skills with the ability to multitask. Humble & honest, someone that can manage through ambiguities and complexities. 
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I'm currently seeking to transition into the cybersecurity industry, leveraging my diverse background and transferable skills gained from a successful career in real estate and military experience. My strengths include effective communication, adaptability, collaboration, attention to detail and problem-solving. I have a proven track record of success with the ability of interacting with professionals at all levels and am eager to apply these skills in a cybersecurity role.
 
@@ -17,7 +16,7 @@ I'm currently seeking to transition into the cybersecurity industry, leveraging 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting Up and Securing a Home Lab Environment| <a href="https://tinyurl.com/m9uwjnad">SOP</a>|
-| Build & Configure a Firewall part 2 w/ Linux  | <a href="https://https://tinyurl.com/5n6tea99">SOP</a>|
+| Build & Configure a Firewall part 2 w/ Linux  | <a href="https://https://https://tinyurl.com/5n6tea99">SOP</a>|
 | Conduct Vulnerability Assessment & Remdiation | <a href="www.google.com">SOP</a>|
 
 
