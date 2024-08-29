@@ -23,12 +23,14 @@ Currently working on these projectsto help build foundational skills. Created SO
 
 
 ## Skills & Projects - Blockchain
-Currently working on these projectsto help build foundational skills. 
+Currently working on these projects to help build foundational skills. 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Blockchain Basics                             | <a href="www.linkedin.com/in/jeff-mann">Cyfrin Cert</a>|
-| Solidity Smart Contract Development           | <a ">In Progress</a>|
+| Solidity Smart Contract Development           | <a >In Progress</a>|
+| LearnWeb3 Stacks Developer Degree             | <a >In Progress</a>|
+
 
 
 
