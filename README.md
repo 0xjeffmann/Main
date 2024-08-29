@@ -3,14 +3,16 @@
 
 
 
-I like learning new things, has a profound interest in technology and a dedication to improving. An professional seeking an IT/Cybersecurity position to apply my skills in network security, security policy, and organizational risk management. I recently completed the Google Cybersecurity Certificate program. Extensive knowledge in customer success, marketing & sales, critical thinking & analysis, and operations and systems. Possesses effective communications skills with the ability to multitask. Humble & honest, someone that can manage through ambiguities and complexities. 
+I am a dedicated professional with an interest in technology and a commitment to continuous learning and improvement. Recently completed the Google Cybersecurity Certificate program, along with certifications in Blockchain Basics and currently in progress of completing Solidity Smart Contract Fundamentals. I am seeking a position in IT/Cybersecurity or Blockchain to apply my skills in network security, security policy, blockchain development, and organizational risk management. With extensive knowledge in customer success, marketing & sales, critical thinking & analysis, and operations and systems, I bring effective communication skills and the ability to multitask. Humble and honest, I can adeptly manage through ambiguities and complexities.
 
 
 ## Objective
 
-I'm currently seeking to transition into the cybersecurity industry, leveraging my diverse background and transferable skills gained from a successful career in real estate and military experience. My strengths include effective communication, adaptability, collaboration, attention to detail and problem-solving. I have a proven track record of success with the ability of interacting with professionals at all levels and am eager to apply these skills in a cybersecurity role.
+I am currently seeking to transition into the cybersecurity and blockchain industries, leveraging my diverse background and recent certifications in Cybersecurity, Blockchain Basics, and Solidity Smart Contract Development (in progress). My strengths in effective communication, adaptability, collaboration, attention to detail, and problem-solving, combined with a proven track record of success in interacting with professionals at all levels, position me well to contribute to roles in these emerging fields. I am eager to apply my skills and technical knowledge to securing digital assets and developing innovative blockchain solutions.
 
-## Skills & Projects
+
+
+## Skills & Projects - Cybersecurity
 Currently working on these projectsto help build foundational skills. Created SOPs to use as a guide and made them public for others to learn from and/or for others to teach me.
 
 | Skill                                         | Associated Project         |
@@ -20,10 +22,26 @@ Currently working on these projectsto help build foundational skills. Created SO
 | Conduct Vulnerability Assessment & Remdiation | <a href="https://tinyurl.com/yrnnw9dz">SOP</a>|
 
 
+## Skills & Projects - Blockchain
+Currently working on these projectsto help build foundational skills. 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Blockchain Basics                             | <a href="www.linkedin.com/in/jeff-mann">Cyfrin Cert</a>|
+| Solidity Smart Contract Development           | <a ">In Progress</a>|
+
+
+
+
+
 ## Tools
 ChatGPT
 
 Gemini
+
+PHIND
+
+
 
 ### Network
 In Progress...below is not updated
